@@ -52,5 +52,5 @@ ArticleSearchResultItemStory.args = {
 
 You can manage your conversations and collaborate with your team on the go with Chatwoot mobile apps (available for Android and iOS).
 
-In this user guide, we’ve explained the features, capabilities, modes of operation, and step-by-step procedures for easily using the Chatwoot platform.`,
+In this user guide, we’ve explained the features, capabilities, modes of operation, and step-by-step procedures for easily using the pulse platform.`,
 };
