@@ -1,3 +1,4 @@
+import pt_BR from './locale/pt_BR';
 import ar from './locale/ar';
 import ca from './locale/ca';
 import cs from './locale/cs';
@@ -22,7 +23,6 @@ import nl from './locale/nl';
 import no from './locale/no';
 import pl from './locale/pl';
 import pt from './locale/pt';
-import pt_BR from './locale/pt_BR';
 import ro from './locale/ro';
 import ru from './locale/ru';
 import sk from './locale/sk';
@@ -38,6 +38,7 @@ import is from './locale/is';
 import lt from './locale/lt';
 
 export default {
+  pt_BR
   ar,
   ca,
   cs,
@@ -61,7 +62,6 @@ export default {
   nl,
   no,
   pl,
-  pt_BR,
   pt,
   ro,
   ru,
