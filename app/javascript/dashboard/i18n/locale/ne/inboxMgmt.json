@@ -727,7 +727,7 @@
         "AGENT_MESSAGE": "Hello"
       },
       "BRANDING_TEXT": "Pulse द्वारा संचालित",
-      "SCRIPT_SETTINGS": "\n      window.chatwootSettings = {options};"
+      "SCRIPT_SETTINGS": "\n      window.pulseSettings = {options};"
     },
     "EMAIL_PROVIDERS": {
       "MICROSOFT": "Microsoft",

@@ -727,7 +727,7 @@
         "AGENT_MESSAGE": "Hello"
       },
       "BRANDING_TEXT": "由 Pulse 支持",
-      "SCRIPT_SETTINGS": "\n      window.chatwootSettings = {options};"
+      "SCRIPT_SETTINGS": "\n      window.pulseSettings = {options};"
     },
     "EMAIL_PROVIDERS": {
       "MICROSOFT": "Microsoft",

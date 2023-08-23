@@ -727,7 +727,7 @@
         "AGENT_MESSAGE": "Hello"
       },
       "BRANDING_TEXT": "Pulse",
-      "SCRIPT_SETTINGS": "\nwindow.chatwootSettings = {options};"
+      "SCRIPT_SETTINGS": "\nwindow.pulseSettings = {options};"
     },
     "EMAIL_PROVIDERS": {
       "MICROSOFT": "360Dialog",

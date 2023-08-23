@@ -727,7 +727,7 @@
         "AGENT_MESSAGE": "Bună"
       },
       "BRANDING_TEXT": "Oferit de Pulse",
-      "SCRIPT_SETTINGS": "\nwindow.chatwootSettings = {options};"
+      "SCRIPT_SETTINGS": "\nwindow.pulseSettings = {options};"
     },
     "EMAIL_PROVIDERS": {
       "MICROSOFT": "Microsoft",
