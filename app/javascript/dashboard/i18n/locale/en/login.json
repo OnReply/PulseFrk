@@ -1,27 +1,27 @@
 {
   "LOGIN": {
-    "TITLE": "Login to Pulse",
+    "TITLE": "Entrar no Pulse",
     "EMAIL": {
-      "LABEL": "Email",
-      "PLACEHOLDER": "example@companyname.com",
-      "ERROR": "Please enter a valid email address"
+      "LABEL": "e-mail",
+      "PLACEHOLDER": "exemplo@nomedaempresa.com",
+      "ERROR": "Por favor, insira um endereço de e-mail válido"
     },
     "PASSWORD": {
-      "LABEL": "Password",
-      "PLACEHOLDER": "Password"
+      "LABEL": "Senha",
+      "PLACEHOLDER": "Senha"
     },
     "API": {
-      "SUCCESS_MESSAGE": "Login successful",
-      "ERROR_MESSAGE": "Could not connect to Woot server. Please try again.",
-      "UNAUTH": "Username or password is incorrect. Please try again."
+      "SUCCESS_MESSAGE": "Acesso bem sucedido",
+      "ERROR_MESSAGE": "Não foi possível conectar ao servidor Woot. Por favor, tente novamente.",
+      "UNAUTH": "Nome de usuário ou senha incorretos. Por favor, tente novamente."
     },
     "OAUTH": {
-      "GOOGLE_LOGIN": "Login with Google",
-      "BUSINESS_ACCOUNTS_ONLY": "Please use your company email address to login",
-      "NO_ACCOUNT_FOUND": "We couldn't find an account for your email address."
+      "GOOGLE_LOGIN": "Login com o Google",
+      "BUSINESS_ACCOUNTS_ONLY": "Por favor, use seu endereço de e-mail corporativo para entrar",
+      "NO_ACCOUNT_FOUND": "Não conseguimos encontrar uma conta para seu endereço de e-mail."
     },
-    "FORGOT_PASSWORD": "Forgot your password?",
-    "CREATE_NEW_ACCOUNT": "Create a new account",
-    "SUBMIT": "Login"
+    "FORGOT_PASSWORD": "Esqueceu-se da sua senha?",
+    "CREATE_NEW_ACCOUNT": "Criar nova conta",
+    "SUBMIT": "Entrar"
   }
 }
